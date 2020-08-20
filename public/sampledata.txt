@@ -1,0 +1,22 @@
+[
+    {
+        id: 1
+        name: 'gloves'
+        price: 25
+    },
+    {
+        id: 2
+        name: 'hat'
+        price: 30
+    },
+    {
+        id: 3
+        name: 'coat'
+        price: 75
+    },
+    {
+        id: 4
+        name: 'scarf'
+        price: 20
+    }
+]
